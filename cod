@@ -1,0 +1,90 @@
+<table border = "2">
+            <tr>
+                <th><p>Product</p></th> <th><p>Price</p></th> <th><p>weight</p></th>
+            </tr>
+
+            <tr>
+                <td><p>Apples</p></td> <td><p>150</p></td> <td><p>2кг</p></td>
+            <tr>
+                <td><p>Orange</p></td> <td><p>250</p></td> <td><p>2кг</p></td>
+            </tr>
+            <tr>
+                <td><p>Bananas</p></td> <td><p>300</p></td> <td><p>2кг</p></td>
+            </tr>
+        </table>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+        
+        <ol>
+            <li>Маринец</li>
+            <li>Федорович</li>
+            <li>Адамаки</li>
+            <li>Дудин</li>
+            <li>Кононюк</li>
+            <li>Тарасова</li>
+            <li>Васильев</li>
+            <li>Антонов</li>
+            <li>Горбачёва</li>
+            <li>Михайлов</li>
+            <li>Мельников</li>
+        </ol>
+        
+        body{
+    padding: 45px;
+}
+table{
+    width: 250px;
+    height: 400px;
+}
+p{
+    width: 200px;
+    text-indent: 25px;
+    font-family: "Sour Gummy", sans-serif;
+font-optical-sizing: 400px;
+font-style: normal;
+}
+
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name = "viewport" content="">
+        <title>Document</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css" class="css">
+    </head>
+    <body>
+        <h1>Lorem</h1>
+        <h2>Lorem</h2>
+        <h3>Lorem</h3>
+        <p>Lorem</p>
+    </body>
+</html>
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    font-weight: 100;
+    margin: 35px;
+}
+h1{
+    font-style: italic;
+    margin-left: 35px;
+}
+p{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: red;
+}
+
+<meta charset="UTF-8">
+        <meta name = "viewport" content="">
+        <title>Document</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css" class="css">
